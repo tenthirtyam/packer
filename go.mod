@@ -24,7 +24,7 @@ require (
 	github.com/hashicorp/hcp-sdk-go v0.174.0
 	github.com/hashicorp/packer-plugin-sdk v0.6.10
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869
-	github.com/klauspost/compress v1.18.6
+	github.com/klauspost/compress v1.18.7
 	github.com/klauspost/pgzip v1.2.6
 	github.com/masterzen/winrm v0.0.0-20250927112105-5f8e6c707321
 	github.com/mattn/go-runewidth v0.0.19 // indirect
